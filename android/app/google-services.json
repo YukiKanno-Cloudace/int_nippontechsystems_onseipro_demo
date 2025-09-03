@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506561138290",
+    "project_id": "ca-kanno-yuki-tech-2025",
+    "storage_bucket": "ca-kanno-yuki-tech-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506561138290:android:1c2093ab13c3005e3dbceb",
+        "android_client_info": {
+          "package_name": "com.example.int_nippontechsystems_onseipro_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506561138290-agjvtf195fpupl63t1u4sjm6g44fajem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK4VAyiGktkM9pQgP1SsxvVEbiOdH-DAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506561138290-agjvtf195fpupl63t1u4sjm6g44fajem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
